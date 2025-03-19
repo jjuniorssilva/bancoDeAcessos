@@ -5,31 +5,5 @@
   {
     "id":"@#djhd653gbsu", "nome":"Roberto", "email":"roberto@gmail.com","user":"robocoop", "password":"Robt@123", "tipo":"colaborador"
   }],
-  "acessos": [
-    {
-      "id": "2ec3887265aeaf2243b1250f0d3fa36205c918d16cd783cb6eaa3c6904c19fcc",
-      "numero": 3,
-      "cliente": "PROMAX",
-      "maquinasVituais": [
-        {
-          "tipo": "",
-          "ip": "",
-          "portaSsh": "",
-          "user": "",
-          "password": "",
-          "passwordRoot": "",
-          "link": ""
-        }
-      ],
-      "produtos": [
-        {
-          "user": "",
-          "password": "",
-          "link": "",
-          "tipo": ""
-        }
-      ],
-      "updateAt": "2025-03-19T16:50:08.568Z"
-    }
-  ]
+  "acessos": []
 }
